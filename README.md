@@ -1,7 +1,7 @@
 # Olá! Eu sou o Silvano <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35" style="vertical-align:middle" /> 
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Cientista%20de%20Dados-444444?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Especialista%20de%20IA-444444?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Engenheiro%20de%20Computação-666666?style=flat&logo=microchip&logoColor=white" />
 </div>
 
@@ -9,19 +9,18 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam00dXA4OTRvcGl4YmRqZDlpdWh6aXZhcXhyaTk0ZzNyZDZ2MXA3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" alt="GIF cientista de dados">
 
-> _"99,9% dados, 0,1% caos... mas se houver caos, a gente resolve com um `try-except` ou um pouco de ZRAM."_ 😅
+> _"99,9% dados, 0,1% caos... mas se houver caos, a gente resolve com um `try-except` ou com agentes bem orquestrados."_ 😅
 
 ---
 
 ### <img src="https://img.shields.io/badge/-%20Sobre%20mim-888888?style=flat&logo=microdotblog&logoColor=white" height="25" />
 
-Desde 2018, venho trilhando uma jornada que une **tecnologia, análise de dados, empatia e compartilhamento de conhecimentos**. Atualmente atuo como Cientista de Dados (Senior Consultant na Protiviti Brazil), desenvolvendo soluções de IA generativa e analytics estratégico.
+Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, inteligência artificial e impacto real em negócios**. Atualmente atuo como **Especialista de Inteligência Artificial**, com foco em **sistemas multiagênticos, IA Generativa, automação inteligente e arquitetura de soluções escaláveis**, especialmente em contextos corporativos e financeiros.
 
-* **Educação & Mentoria:** Entusiasta da democratização tecnológica, busco unir educação e tecnologia para transformar carreiras. Liderei iniciativas voltadas ao desenvolvimento corporativo em dados, focando na capacitação de departamentos multidisciplinares no uso estratégico de IA Generativa e ferramentas de analytics.
-* **IA Generativa & RAG:** Especialista em arquiteturas RAG (Retrieval-Augmented Generation), orquestração de agentes e suporte técnico a desenvolvedores em LLMs.
-* **Cloud AI:** Implementação de modelos de larga escala via Amazon Bedrock e ecossistema AWS.
-* **Engenharia de Dados:** Pipelines escaláveis com PySpark e unificação de grandes bases de dados públicos.
-* **Machine Learning:** Modelagem preditiva, detecção de fraudes e visão computacional (YOLO, ResNet50).
+* **IA Generativa & Agentes:** Atuação com **RAG, LLM Orchestration, MCP/A2A, agentes autônomos e automação de fluxos críticos**, desenhando soluções robustas para cenários complexos.
+* **Mercado Financeiro & Decisão Inteligente:** Experiência em aplicações de IA no setor financeiro, incluindo apoio à decisão, detecção de anomalias, automação e arquitetura de sistemas inteligentes.
+* **Engenharia de Dados & Machine Learning:** Desenvolvimento de pipelines escaláveis, modelagem preditiva, NLP e visão computacional aplicados a problemas reais.
+* **Educação & Compartilhamento de Conhecimento:** Entusiasta da democratização tecnológica, busco transformar conhecimento técnico em soluções acessíveis, úteis e com impacto.
 
 ---
 
@@ -40,7 +39,7 @@ Desde 2018, venho trilhando uma jornada que une **tecnologia, análise de dados,
       <a href="https://github.com/Iquitim/brasil-dados-publicos">
         <img src="https://img.shields.io/badge/-%20Brasil%20Dados%20Públicos-888888?style=flat&logo=gitbook&logoColor=white" height="25" />
       </a>
-      <p><b>Data Intelligence & Impacto Social:</b> Engenharia de dados aplicada na unificação de bases massivas do SUS e IBGE. O projeto utiliza pipelines em PySpark para geocodificação de milhões de endereços, transformando dados heterogêneos em insights socioeconômicos estratégicos para análise geoespacial.</p>
+      <p><b>Data Engineering & Impacto Social:</b> Projeto voltado à unificação de bases massivas do SUS e IBGE com <b>PySpark</b> e geocodificação em larga escala. O objetivo é transformar dados públicos heterogêneos em inteligência socioeconômica estratégica para análises territoriais e tomada de decisão.</p>
       <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
       <img src="https://img.shields.io/badge/Big_Data-212121?style=flat-square&logo=googlecloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -58,9 +57,9 @@ Desde 2018, venho trilhando uma jornada que une **tecnologia, análise de dados,
       <a href="https://github.com/Iquitim/Gastor">
         <img src="https://img.shields.io/badge/-%20Gastor%20--%20Crypto%20Lab%20%26%20Hub-888888?style=flat&logo=bitcoin&logoColor=white" height="25" />
       </a>
-      <p><b>Quantitative Research & ML:</b> Hub experimental para validação de estratégias quantitativas e estudos em DeFi. O foco é <b>Human-in-the-Loop (HITL)</b> para aplicar <b>Imitation Learning</b>, permitindo que algoritmos aprendam com decisões de traders especialistas, além de servir como laboratório de backtesting para Prop Firms.</p>
-      <img src="https://img.shields.io/badge/Imitation_Learning-666666?style=flat-square&logo=brain&logoColor=white" />
-      <img src="https://img.shields.io/badge/Human_in_the_Loop-444444?style=flat-square&logo=user&logoColor=white" />
+      <p><b>Quantitative Research & Intelligent Automation:</b> Hub experimental de pesquisa quantitativa com foco em <b>backtesting</b>, <b>paper trading</b> e exploração de sistemas inteligentes aplicados a trading. O projeto funciona como laboratório para validação de estratégias, automação e evolução de modelos com apoio humano no processo decisório.</p>
+      <img src="https://img.shields.io/badge/Multiagents-666666?style=flat-square&logo=buffer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Backtesting-444444?style=flat-square&logo=chartdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
@@ -76,7 +75,7 @@ Desde 2018, venho trilhando uma jornada que une **tecnologia, análise de dados,
       <a href="https://github.com/Iquitim/validador-assinatura">
         <img src="https://img.shields.io/badge/-%20Validador%20de%20Assinatura-888888?style=flat&logo=tensorflow&logoColor=white" height="25" />
       </a>
-      <p><b>Security & Biometrics:</b> Sistema de visão computacional para autenticação documental e prevenção de fraudes. Implementa uma pipeline de <b>Deep Feature Extraction</b> via ResNet50 e classificadores SVM, explorando <b>Transfer Learning</b> para alta precisão em biometria comportamental.</p>
+      <p><b>Computer Vision & Fraud Prevention:</b> Solução de autenticação documental baseada em visão computacional, combinando <b>ResNet50</b>, extração profunda de características e <b>SVM</b> para apoiar prevenção a fraudes e validação biométrica comportamental.</p>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/ResNet50-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -89,11 +88,12 @@ Desde 2018, venho trilhando uma jornada que une **tecnologia, análise de dados,
 ### <img src="https://img.shields.io/badge/-%20Stack%20Tecnológica-888888?style=flat&logo=codeforces&logoColor=white" height="25" />
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;">
-  <strong>IA Generativa & LLMs:</strong>
+  <strong>IA Generativa & Orquestração:</strong>
   <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP%2FA2A-666666?style=for-the-badge&logo=protocolsdotio&logoColor=white"/>
 </div>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;">
@@ -105,44 +105,50 @@ Desde 2018, venho trilhando uma jornada que une **tecnologia, análise de dados,
 </div>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;">
-  <strong>Machine Learning:</strong>
+  <strong>Machine Learning & Visão:</strong>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO%20%2F%20ResNet50-444444?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;">
-  <strong>Visualização e BI:</strong>
-  <img src="https://img.shields.io/badge/Matplotlib-31363B?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alteryx-00394D?style=for-the-badge&logo=alteryx&logoColor=white"/>
+  <strong>Cloud, BI & Infra:</strong>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/QuickSight-2566FF?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alteryx-00394D?style=for-the-badge&logo=alteryx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px;">
-  <strong>Infra & Linux:</strong>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <strong>Ferramentas & Ambiente:</strong>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-212121?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
 ---
 
 ### <img src="https://img.shields.io/badge/-%20No%20meu%20Radar-888888?style=flat&logo=target&logoColor=white" height="25" />
 
-* Orquestração avançada de **Multiagentes** (A2A).
-* Otimização de **RAGs** e bases de vetores (Vector DBs).
-* Fine-tuning de modelos para cenários de negócios complexos.
+* Sistemas **multiagênticos** para automação corporativa.
+* Arquiteturas de **LLM Orchestration** com MCP e A2A.
+* **RAGs** mais robustos, observáveis e escaláveis.
+* Agentes aplicados a **mercado financeiro**, decisões e operações inteligentes.
+* Fine-tuning e adaptação de modelos para cenários complexos de negócio.
 
 ---
 
 ### <img src="https://img.shields.io/badge/-%20Vamos%20conversar-888888?style=flat&logo=googlemessages&logoColor=white" height="25" />
 
-* Educação, acessibilidade e tecnologia com impacto social.
-* IA responsável e ética no setor financeiro.
-* Carreira em dados e ecossistema open-source.
+* IA Generativa, agentes e automação inteligente.
+* Carreira em dados, arquitetura de soluções e ecossistema open-source.
+* Tecnologia aplicada ao setor financeiro.
+* Educação, acessibilidade e impacto social por meio da tecnologia.
 
 <br />
 
