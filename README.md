@@ -35,6 +35,12 @@ O projeto reúne uma biblioteca Python publicada no PyPI, experimentos pré-regi
 
 [Biblioteca Python](https://github.com/Iquitim/lebre) · [PyPI](https://pypi.org/project/lebre/) · [Registro da pesquisa](https://github.com/Iquitim/lebre-research) · [Laboratório de experimentos](https://github.com/Iquitim/lebre-lab)
 
+#### Pulse · Automação editorial com IA
+
+O **Pulse** é uma plataforma de código aberto e auto-hospedada para planejar, gerar e revisar conteúdo com apoio de IA, além de agendar e publicar em Bluesky, X e Threads. Ela permite escolher entre modelos locais via Ollama e provedores em nuvem.
+
+[Repositório e demonstração da interface](https://github.com/Iquitim/pulse)
+
 <table border="0">
   <tr>
     <td width="250" align="center" valign="middle">
