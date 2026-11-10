@@ -20,11 +20,20 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
 * **IA Generativa & Agentes:** Atuação com **RAG, LLM Orchestration, MCP/A2A, agentes autônomos e automação de fluxos críticos**, desenhando soluções robustas para cenários complexos.
 * **Mercado Financeiro & Decisão Inteligente:** Experiência em aplicações de IA no setor financeiro, incluindo apoio à decisão, detecção de anomalias, automação e arquitetura de sistemas inteligentes.
 * **Engenharia de Dados & Machine Learning:** Desenvolvimento de pipelines escaláveis, modelagem preditiva, NLP e visão computacional aplicados a problemas reais.
+* **Pesquisa aplicada & reprodutibilidade:** Na LEBRE, investigo como adaptar modelos de previsão online a mudanças nas séries temporais, com experimentos pré-registrados e avaliações reproduzíveis.
 * **Educação & Compartilhamento de Conhecimento:** Entusiasta da democratização tecnológica, busco transformar conhecimento técnico em soluções acessíveis, úteis e com impacto.
 
 ---
 
 ### <img src="https://img.shields.io/badge/-%20Projetos%20de%20Destaque-888888?style=flat&logo=gitbook&logoColor=white" height="25" />
+
+#### LEBRE · Previsão online de séries temporais
+
+Desenvolvo a **LEBRE**, um método de previsão um passo à frente para séries temporais que chegam em fluxo. O método usa testes estatísticos sequenciais para decidir quando incluir ou remover entradas do modelo, com custo computacional fixo por passo.
+
+O projeto reúne uma biblioteca Python publicada no PyPI, experimentos pré-registrados e um registro público com código e resultados para reproduzir as avaliações.
+
+[Biblioteca Python](https://github.com/Iquitim/lebre) · [PyPI](https://pypi.org/project/lebre/) · [Registro da pesquisa](https://github.com/Iquitim/lebre-research) · [Laboratório de experimentos](https://github.com/Iquitim/lebre-lab)
 
 <table border="0">
   <tr>
