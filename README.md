@@ -1,19 +1,14 @@
-# Olá! Eu sou o Silvano <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35" style="vertical-align:middle" /> 
+<img src="./assets/silvano-banner.gif" width="744" alt="Olá, eu sou o Silvano! Especialista de IA e Engenheiro de Computação. Faço previsões. O futuro ainda insiste em não colaborar." />
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Especialista%20de%20IA-444444?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Engenheiro%20de%20Computação-666666?style=flat&logo=microchip&logoColor=white" />
-</div>
+<p>
+  <a href="https://github.com/Iquitim/lebre">
+    <img src="./assets/lebre-logo-dark.png" width="132" alt="Logo da LEBRE" />
+  </a>
+</p>
 
-<br />
+**LEBRE** · Previsão online de séries temporais. [Biblioteca Python](https://github.com/Iquitim/lebre) · [PyPI](https://pypi.org/project/lebre/) · [Registro da pesquisa](https://github.com/Iquitim/lebre-research)
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam00dXA4OTRvcGl4YmRqZDlpdWh6aXZhcXhyaTk0ZzNyZDZ2MXA3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" alt="GIF cientista de dados">
-
-> _"99,9% dados, 0,1% caos... mas se houver caos, a gente resolve com um `try-except` ou com agentes bem orquestrados."_ 😅
-
----
-
-### <img src="https://img.shields.io/badge/-%20Sobre%20mim-888888?style=flat&logo=microdotblog&logoColor=white" height="25" />
+## Sobre mim
 
 Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, inteligência artificial e impacto real em negócios**. Atualmente atuo como **Especialista de Inteligência Artificial**, com foco em **sistemas multiagênticos, IA Generativa, automação inteligente e arquitetura de soluções escaláveis**, especialmente em contextos corporativos e financeiros.
 
@@ -25,7 +20,7 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
 
 ---
 
-### <img src="https://img.shields.io/badge/-%20Projetos%20de%20Destaque-888888?style=flat&logo=gitbook&logoColor=white" height="25" />
+## Projetos de destaque
 
 <table border="0">
   <tr>
@@ -108,7 +103,18 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
 
 ---
 
-### <img src="https://img.shields.io/badge/-%20Stack%20Tecnológica-888888?style=flat&logo=codeforces&logoColor=white" height="25" />
+## Stack tecnológica
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP%2FA2A-666666?style=flat-square&logo=protocolsdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+<details>
+<summary>Ver stack completa</summary>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;">
   <strong>IA Generativa & Orquestração:</strong>
@@ -154,9 +160,11 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
+</details>
+
 ---
 
-### <img src="https://img.shields.io/badge/-%20No%20meu%20Radar-888888?style=flat&logo=target&logoColor=white" height="25" />
+## No meu radar
 
 * Sistemas **multiagênticos** para automação corporativa.
 * Arquiteturas de **LLM Orchestration** com MCP e A2A.
@@ -166,7 +174,7 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
 
 ---
 
-### <img src="https://img.shields.io/badge/-%20Vamos%20conversar-888888?style=flat&logo=googlemessages&logoColor=white" height="25" />
+## Vamos conversar
 
 * IA Generativa, agentes e automação inteligente.
 * Carreira em dados, arquitetura de soluções e ecossistema open-source.
