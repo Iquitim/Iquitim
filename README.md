@@ -1,22 +1,10 @@
-<img src="./assets/silvano-banner.gif" width="744" alt="Olá, eu sou o Silvano! Especialista de IA e Engenheiro de Computação. Faço previsões. O futuro ainda insiste em não colaborar." />
-
-<p>
-  <a href="https://github.com/Iquitim/lebre">
-    <img src="./assets/lebre-logo-dark.png" width="132" alt="Logo da LEBRE" />
-  </a>
-</p>
-
-**LEBRE** · Previsão online de séries temporais. [Biblioteca Python](https://github.com/Iquitim/lebre) · [PyPI](https://pypi.org/project/lebre/) · [Registro da pesquisa](https://github.com/Iquitim/lebre-research)
+<img src="./assets/silvano-banner.gif" width="744" alt="Olá, eu sou o Silvano! IA, dados e educação. Eu explico tecnologia. Às vezes, até o código entende. Perguntar, testar, compartilhar." />
 
 ## Sobre mim
 
-Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, inteligência artificial e impacto real em negócios**. Atualmente atuo como **Especialista de Inteligência Artificial**, com foco em **sistemas multiagênticos, IA Generativa, automação inteligente e arquitetura de soluções escaláveis**, especialmente em contextos corporativos e financeiros.
+Sou engenheiro de computação e especialista em inteligência artificial. Desde 2018, trabalho com tecnologia e dados. Hoje meu foco está em IA generativa, sistemas multiagênticos e automação, especialmente em contextos corporativos e financeiros. Minha trajetória também passa por engenharia de dados, modelagem preditiva e visão computacional.
 
-* **IA Generativa & Agentes:** Atuação com **RAG, LLM Orchestration, MCP/A2A, agentes autônomos e automação de fluxos críticos**, desenhando soluções robustas para cenários complexos.
-* **Mercado Financeiro & Decisão Inteligente:** Experiência em aplicações de IA no setor financeiro, incluindo apoio à decisão, detecção de anomalias, automação e arquitetura de sistemas inteligentes.
-* **Engenharia de Dados & Machine Learning:** Desenvolvimento de pipelines escaláveis, modelagem preditiva, NLP e visão computacional aplicados a problemas reais.
-* **Pesquisa aplicada & reprodutibilidade:** Na LEBRE, investigo como adaptar modelos de previsão online a mudanças nas séries temporais, com experimentos pré-registrados e avaliações reproduzíveis.
-* **Educação & Compartilhamento de Conhecimento:** Entusiasta da democratização tecnológica, busco transformar conhecimento técnico em soluções acessíveis, úteis e com impacto.
+Gosto de compartilhar o que aprendo e tornar assuntos técnicos mais acessíveis. Nos meus projetos, isso passa por explicar as decisões, mostrar exemplos e documentar os experimentos para que outras pessoas possam reproduzi-los.
 
 ---
 
@@ -31,10 +19,11 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
     </td>
     <td valign="top">
       <a href="https://github.com/Iquitim/lebre">
-        <img src="https://img.shields.io/badge/-%20LEBRE%20%C2%B7%20Previs%C3%A3o%20online-888888?style=flat&logo=gitbook&logoColor=white" height="25" alt="LEBRE" />
+        <img src="./assets/lebre-logo-dark.png" width="152" alt="LEBRE" />
       </a>
-      <p><b>Previsão online de séries temporais:</b> prevê um passo à frente e usa testes estatísticos sequenciais para decidir quando incluir ou remover entradas, com custo computacional fixo por passo. A pesquisa tem experimentos pré-registrados e avaliações reproduzíveis.</p>
-      <p><a href="https://pypi.org/project/lebre/">PyPI</a> · <a href="https://github.com/Iquitim/lebre-research">Registro da pesquisa</a> · <a href="https://github.com/Iquitim/lebre-lab">Laboratório de experimentos</a></p>
+      <p>Na <b>LEBRE</b>, investigo como prever o próximo valor de uma série temporal à medida que chegam novos dados. O método usa testes estatísticos sequenciais para decidir quando incluir ou remover entradas e mantém o custo computacional fixo por passo.</p>
+      <p>A biblioteca está no PyPI, e o registro da pesquisa reúne código, experimentos pré-registrados e resultados para reprodução.</p>
+      <p><a href="https://github.com/Iquitim/lebre">Biblioteca Python</a> · <a href="https://pypi.org/project/lebre/">PyPI</a> · <a href="https://github.com/Iquitim/lebre-research">Registro da pesquisa</a> · <a href="https://github.com/Iquitim/lebre-lab">Laboratório de experimentos</a></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" />
@@ -164,32 +153,17 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
 
 ---
 
-## No meu radar
+## O que estou explorando
 
-* Sistemas **multiagênticos** para automação corporativa.
-* Arquiteturas de **LLM Orchestration** com MCP e A2A.
-* **RAGs** mais robustos, observáveis e escaláveis.
-* Agentes aplicados a **mercado financeiro**, decisões e operações inteligentes.
-* Fine-tuning e adaptação de modelos para cenários complexos de negócio.
-
----
+- Agentes para automação corporativa e apoio à decisão no setor financeiro, com orquestração via MCP e A2A.
+- RAG observável e adaptação de modelos para casos de uso específicos.
 
 ## Vamos conversar
 
-* IA Generativa, agentes e automação inteligente.
-* Carreira em dados, arquitetura de soluções e ecossistema open-source.
-* Tecnologia aplicada ao setor financeiro.
-* Educação, acessibilidade e impacto social por meio da tecnologia.
-
-<br />
+Gosto de trocar ideias sobre educação em tecnologia, projetos de código aberto e aplicações de IA e dados.
 
 <div>
 <a href="https://www.linkedin.com/in/silvano-lima-barros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:silvano.limadebarros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/silvanoliba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
----
-
-> _"A tecnologia é mais poderosa quando aproxima as pessoas."_  
-> — Tim Cook
