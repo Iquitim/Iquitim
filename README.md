@@ -1,4 +1,4 @@
-<img src="./assets/silvano-banner.gif" width="744" alt="Olá, eu sou o Silvano! IA, dados e educação. Eu explico tecnologia. Às vezes, até o código entende. Perguntar, testar, compartilhar." />
+<img src="./assets/silvano-banner.gif" width="744" alt="Oi, eu sou o Silvano! IA, dados e educação. Meu poder de luta? Mais de 8 mil linhas de dados!" />
 
 ## Sobre mim
 
@@ -14,13 +14,10 @@ Gosto de compartilhar o que aprendo e tornar assuntos técnicos mais acessíveis
   <tr>
     <td width="250" align="center" valign="middle">
       <a href="https://github.com/Iquitim/lebre">
-        <img src="./assets/lebre.gif" width="250" height="150" alt="Animação de uma série temporal com o próximo ponto previsto em destaque" />
+        <img src="./assets/lebre.gif" width="250" height="150" alt="Logo da LEBRE e animação de uma série temporal com o próximo ponto previsto em destaque" />
       </a>
     </td>
     <td valign="top">
-      <a href="https://github.com/Iquitim/lebre">
-        <img src="./assets/lebre-logo-dark.png" width="152" alt="LEBRE" />
-      </a>
       <p>Na <b>LEBRE</b>, investigo como prever o próximo valor de uma série temporal à medida que chegam novos dados. O método usa testes estatísticos sequenciais para decidir quando incluir ou remover entradas e mantém o custo computacional fixo por passo.</p>
       <p>A biblioteca está no PyPI, e o registro da pesquisa reúne código, experimentos pré-registrados e resultados para reprodução.</p>
       <p><a href="https://github.com/Iquitim/lebre">Biblioteca Python</a> · <a href="https://pypi.org/project/lebre/">PyPI</a> · <a href="https://github.com/Iquitim/lebre-research">Registro da pesquisa</a> · <a href="https://github.com/Iquitim/lebre-lab">Laboratório de experimentos</a></p>
