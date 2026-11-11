@@ -64,11 +64,7 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
   </tr>
   <tr>
     <td width="250" align="center" valign="middle">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N0N2tvcm05b3FncjBpMGQ0ZnY2cTI5bmo2MHFkdWF1ZmRodzUydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarmhcyiIgmzWTXW/giphy.gif" 
-           width="250" 
-           height="150" 
-           style="border-radius:10px; object-fit: cover;" 
-           alt="Big Data Map Brazil" />
+      <img src="./assets/brasil-dados-publicos.gif" width="250" height="150" alt="Animação da integração e geocodificação de dados do SUS e do IBGE" />
     </td>
     <td valign="top">
       <a href="https://github.com/Iquitim/brasil-dados-publicos">
@@ -82,11 +78,7 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
   </tr>
   <tr>
     <td width="250" align="center" valign="middle">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFiNmkwdnVxc3NndzZiMXVsd3B1bWVkMTh1bzA4amVhNGt5ZjAyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" 
-           width="250" 
-           height="150" 
-           style="border-radius:10px; object-fit: cover;" 
-           alt="Crypto Trading Lab" />
+      <img src="./assets/gastor.gif" width="250" height="150" alt="Animação de gráfico de mercado com backtesting e paper trading" />
     </td>
     <td valign="top">
       <a href="https://github.com/Iquitim/Gastor">
@@ -100,11 +92,7 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
   </tr>
   <tr>
     <td width="250" align="center" valign="middle">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY3bGZmemYwbG8wdWdyaGNrMmVmYzdjN3Bob3p6Y2FubHI1bGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC9dg7IxhEB2mHmYN0/giphy.gif" 
-           width="250" 
-           height="150" 
-           style="border-radius:10px; object-fit: cover;" 
-           alt="AI Scanning" />
+      <img src="./assets/validador-assinatura.gif" width="250" height="150" alt="Animação da comparação de traços de duas assinaturas" />
     </td>
     <td valign="top">
       <a href="https://github.com/Iquitim/validador-assinatura">
