@@ -27,21 +27,41 @@ Desde 2018, venho construindo uma trajetória que conecta **tecnologia, dados, i
 
 ### <img src="https://img.shields.io/badge/-%20Projetos%20de%20Destaque-888888?style=flat&logo=gitbook&logoColor=white" height="25" />
 
-#### LEBRE · Previsão online de séries temporais
-
-Desenvolvo a **LEBRE**, um método de previsão um passo à frente para séries temporais que chegam em fluxo. O método usa testes estatísticos sequenciais para decidir quando incluir ou remover entradas do modelo, com custo computacional fixo por passo.
-
-O projeto reúne uma biblioteca Python publicada no PyPI, experimentos pré-registrados e um registro público com código e resultados para reproduzir as avaliações.
-
-[Biblioteca Python](https://github.com/Iquitim/lebre) · [PyPI](https://pypi.org/project/lebre/) · [Registro da pesquisa](https://github.com/Iquitim/lebre-research) · [Laboratório de experimentos](https://github.com/Iquitim/lebre-lab)
-
-#### Pulse · Automação editorial com IA
-
-O **Pulse** é uma plataforma de código aberto e auto-hospedada para planejar, gerar e revisar conteúdo com apoio de IA, além de agendar e publicar em Bluesky, X e Threads. Ela permite escolher entre modelos locais via Ollama e provedores em nuvem.
-
-[Repositório e demonstração da interface](https://github.com/Iquitim/pulse)
-
 <table border="0">
+  <tr>
+    <td width="250" align="center" valign="middle">
+      <a href="https://github.com/Iquitim/lebre">
+        <img src="./assets/lebre.gif" width="250" height="150" alt="Animação de uma série temporal com o próximo ponto previsto em destaque" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Iquitim/lebre">
+        <img src="https://img.shields.io/badge/-%20LEBRE%20%C2%B7%20Previs%C3%A3o%20online-888888?style=flat&logo=gitbook&logoColor=white" height="25" alt="LEBRE" />
+      </a>
+      <p><b>Previsão online de séries temporais:</b> prevê um passo à frente e usa testes estatísticos sequenciais para decidir quando incluir ou remover entradas, com custo computacional fixo por passo. A pesquisa tem experimentos pré-registrados e avaliações reproduzíveis.</p>
+      <p><a href="https://pypi.org/project/lebre/">PyPI</a> · <a href="https://github.com/Iquitim/lebre-research">Registro da pesquisa</a> · <a href="https://github.com/Iquitim/lebre-lab">Laboratório de experimentos</a></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" />
+    </td>
+  </tr>
+  <tr>
+    <td width="250" align="center" valign="middle">
+      <a href="https://github.com/Iquitim/pulse">
+        <img src="./assets/pulse.gif" width="250" height="150" alt="Animação das etapas de geração, agendamento e publicação no Pulse" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Iquitim/pulse">
+        <img src="https://img.shields.io/badge/-%20Pulse%20%C2%B7%20Automa%C3%A7%C3%A3o%20editorial%20com%20IA-888888?style=flat&logo=rss&logoColor=white" height="25" alt="Pulse" />
+      </a>
+      <p><b>Automação editorial com IA:</b> plataforma de código aberto e auto-hospedada para planejar, gerar e revisar conteúdo, agendar publicações e publicar em Bluesky, X e Threads. Suporta modelos locais via Ollama e provedores em nuvem.</p>
+      <p><a href="https://github.com/Iquitim/pulse#demonstra%C3%A7%C3%A3o-da-interface">Demonstração da interface</a></p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Ollama-444444?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+    </td>
+  </tr>
   <tr>
     <td width="250" align="center" valign="middle">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N0N2tvcm05b3FncjBpMGQ0ZnY2cTI5bmo2MHFkdWF1ZmRodzUydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarmhcyiIgmzWTXW/giphy.gif" 
