@@ -164,3 +164,11 @@ Gosto de trocar ideias sobre educação em tecnologia, projetos de código abert
 <a href="mailto:silvano.limadebarros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/silvanoliba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
+---
+
+> “A tecnologia é mais poderosa quando aproxima as pessoas.”
+>
+> — Atribuída a Tim Cook
+
+<img src="./assets/conexoes.gif" width="720" alt="" />
